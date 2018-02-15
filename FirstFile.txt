@@ -6,7 +6,9 @@ It uses showbranch.default multi-valued configuration items if no <rev> or <glob
 
 OPTIONS
 <rev>
-Arbitrary extended SHA-1 expression (see gitrevisions[7]) that typically names a branch head or a tag.
+Arbitrary extended SHA-1 expression (see gitrevisions[7]) that typically names a branch abc or a tag.
 
 <glob>
 A glob pattern that matches branch or tag names under refs/. For example, if you have many topic branches under refs/heads/topic, giving topic/* would show all of them.
+
+sneha sneha
