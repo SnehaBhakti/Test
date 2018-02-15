@@ -6,7 +6,7 @@ It cannot show more than 29 branches and commits at a time.
 
 OPTIONS
 <rev>
-Arbitrary extended SHA-1 expression (see gitrevisions[7]) that typically names a branch abc or a tag. hello 
+Ferrari
 
 <glob>
 A glob pattern that matches branch or tag names under refs/. For example, if you have many topic branches under refs/heads/topic, giving topic/* would show all of them.
