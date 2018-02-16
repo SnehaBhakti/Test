@@ -1,0 +1,17 @@
+Shows the commit ancestry graph starting from the commits named with <rev>s or <globs>s (or all refs under refs/heads and/or refs/tags) semi-visually.
+
+It cannot show more than 29 branches and commits at a time.
+
+#Dighe
+
+OPTIONS
+<<<<<<< HEAD
+abc pqr
+=======
+Sneha
+>>>>>>> refs/remotes/origin/master
+Ferrari
+
+A glob pattern that matches branch or tag names under refs/. For example, if you have many topic branches under refs/heads/topic, giving thenga
+
+hi
