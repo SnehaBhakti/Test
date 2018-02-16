@@ -5,7 +5,7 @@ It cannot show more than 29 branches and commits at a time.
 #Dighe
 
 OPTIONS
-<rev>
+abc pqr
 Ferrari
 
 A glob pattern that matches branch or tag names under refs/. For example, if you have many topic branches under refs/heads/topic, giving thenga
